@@ -1,0 +1,77 @@
+# Dependencies
+node_modules/
+*.npm
+*.pnp
+.pnp
+
+# Testing
+coverage/
+
+# Production
+build/
+dist/
+.next/
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.*.local
+.cache/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# IDE
+.vscode
+.idea
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.temp
+
+# Build artifacts
+*.o
+*.so
+*.dylib
+
+# package-lock.json (unless you need it for reproducibility)
+package-lock.json
+yarn.lock
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Compiled files
+*.compiled
+
+# Test coverage
+.nyc_output/
+
+# Node modules
+webapp/node_modules/
+
+# Vite cache
+webapp/.vite/
+
+# Browser profiles
+**/tmp-chrome-profile/

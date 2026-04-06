@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Logo simple Paracel</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #ffffff;
+      font-family: Arial, sans-serif;
+    }
+
+    .logo {
+      width: 180px;
+      height: auto;
+    }
+
+    .logo svg {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">
+    <svg viewBox="0 0 120 170" xmlns="http://www.w3.org/2000/svg" aria-label="Logo tipo hoja">
+      <g fill="none" stroke="#0b5d2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+        <!-- Contorno de la hoja -->
+        <path d="M60 8
+                 C45 22, 20 48, 12 78
+                 C5 105, 16 129, 35 142
+                 C48 151, 72 151, 85 142
+                 C104 129, 115 105, 108 78
+                 C100 48, 75 22, 60 8 Z"/>
+
+        <!-- Nervio central -->
+        <path d="M60 44 L60 160"/>
+
+        <!-- Ramas izquierdas -->
+        <path d="M60 70 L42 54"/>
+        <path d="M60 95 L30 68"/>
+        <path d="M60 122 L12 92"/>
+
+        <!-- Ramas derechas -->
+        <path d="M60 70 L78 54"/>
+        <path d="M60 95 L90 68"/>
+        <path d="M60 122 L108 92"/>
+      </g>
+    </svg>
+  </div>
+</body>
+</html>

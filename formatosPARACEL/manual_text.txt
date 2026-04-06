@@ -1,0 +1,234 @@
+﻿Total paginas: 22
+--- Pag 1 ---
+Versi├│n 1.0 | 11.03.2021
+
+--- Pag 2 ---
+LOGOTIPO
+
+--- Pag 3 ---
+LOGOTIPO
+SIDE
+Las letras nunca se distorsionan
+La cantidad de espacio entre 
+letras nunca se alteran.
+El logotipo siempre es 
+horizontal. Nunca girado en 
+ninguna direcci├│n.
+El logotipo nunca se utiliza sin 
+el isotipo.
+
+--- Pag 4 ---
+LOGOTIPO
+ABOVE
+Las letras nunca se distorsionan
+La cantidad de espacio entre 
+letras nunca se alteran.
+El logotipo siempre es 
+horizontal. Nunca girado en 
+ninguna direcci├│n.
+El logotipo nunca se utiliza sin 
+el isotipo.
+
+--- Pag 5 ---
+ESPECIFICACIONES
+VARIACIONES DE COLOR
+Siga estas especi´¼ücaciones al crear 
+cualquier dise├▒o
+Logotipo a 1 fondo claro
+Logotipo a 1 tinta fondo claro o blanco
+Logotipo a 1 tinta fondo oscuro o verde
+Logotipo a 2 tintas
+HEX: # 205527
+RGB: 32,85,39
+CMYK: 90,0,100,60
+Pantone: PMS 7483 C
+HEX: # 000000
+RGB: 0,0,0
+CMYK: 0,0,0,00
+Pantone: Black 6U
+
+--- Pag 6 ---
+ZONA DE 
+PROTECCI├ôN
+X
+X
+X
+X
+X
+X
+X
+X
+TEXTO EXPLICATIVOS
+TEXTO EXPLICATIVOS
+TEXTO EXPLICATIVOS
+TEXTO EXPLICATIVOS
+TAMA├æOS M├ìNIMOS PARA 
+PRESERVAR LA LEGIBILIDAD
+El logotipo nunca parece m├ís 
+peque├▒o que los siguientes 
+tama├▒os:
+2 cm
+Digital:  56,7 px de largo
+Impresi├│n: 2 cm de largo
+
+--- Pag 7 ---
+USO 
+CORRECTO
+FONDOS NEUTROS EST├üNDAR
+El logotipo requiere un nivel de contraste 
+su´¼üciente con el fondo.
+
+--- Pag 8 ---
+UTILIZACI├ôN
+CROM├üTICA
+SEG├ÜN FONDO
+Sobres fondos claros utilizar las versiones que 
+contrasten (negro y/o verde).
+Sobres fondo oscuros utilizar la versi├│n a una tinta 
+blanca.
+Sobre colores no corporativos utilizar el cuadro de 
+espacio espejado  color neutro o blanco  y logo 
+(negro y/o verde).
+
+--- Pag 9 ---
+TIPOGRAF├ìA
+
+--- Pag 10 ---
+TIPOGRAF├ìA
+USO INTERNO
+La tipograf├¡a que recomendamos para uso interno
+es la Arial. Es una tipograf├¡a disponible en todo los 
+equipos de los colaboradores de Paracel.
+Es una tipograf├¡a de palo seco y de gran legibilidad.
+ 
+ÔÇö Arial Regular
+abcdefghijklmn├▒opqrstuvwxyz
+ABCDEFGHIJKLMN├æOPQRSTUVWXYZ
+1234567890Ôé¼&()*?┬┐!┬í@
+ 
+ÔÇö Arial Italic
+abcdefghijklmn├▒opqrstuvwxyz
+ABCDEFGHIJKLMN├æOPQRSTUVWXYZ
+1234567890Ôé¼&()*?┬┐!┬í@
+ 
+ÔÇö Arial Bold
+abcdefghijklmn├▒opqrstuvwxyz
+ABCDEFGHIJKLMN├æOPQRSTUVWXYZ
+1234567890Ôé¼&()*?┬┐!┬í@
+
+--- Pag 11 ---
+TIPOGRAF├ìA
+USO PUBLICITARIO
+Y EDITORIAL
+La tipograf├¡a corporativa asociada a la marca en sus 
+aplicaciones corporativas -papeler├¡a y se├▒al├®ticas  es 
+MONTSERRAT.
+Es una tipograf├¡a moderna, de palo seco, de dise├▒o 
+moderno, de una completa familia tipogr├í´¼üca y de 
+gran legibilidad. Tipograf├¡a correspondiente al logo.
+ 
+ÔÇö Montserrat Light
+abcdefghijklmn├▒opqrstuvwxyz
+ABCDEFGHIJKLMN├æOPQRSTUVWXYZ
+1234567890Ôé¼&()*?┬┐!┬í@
+ 
+ÔÇö Montserrat Regular
+abcdefghijklmn├▒opqrstuvwxyz
+ABCDEFGHIJKLMN├æOPQRSTUVWXYZ
+1234567890Ôé¼&()*?┬┐!┬í@
+ 
+ÔÇö Montserrat SemiBold
+abcdefghijklmn├▒opqrstuvwxyz
+ABCDEFGHIJKLMN├æOPQRSTUVWXYZ
+1234567890Ôé¼&()*?┬┐!┬í@
+ 
+ÔÇö Montserrat ExtraiBold
+abcdefghijklmn├▒opqrstuvwxyz
+ABCDEFGHIJKLMN├æOPQRSTUVWXYZ
+1234567890Ôé¼&()*?┬┐!┬í@
+ 
+ÔÇö Montserrat Black
+abcdefghijklmn├▒opqrstuvwxyz
+ABCDEFGHIJKLMN├æOPQRSTUVWXYZ
+1234567890Ôé¼&()*?┬┐!┬í@
+
+--- Pag 12 ---
+COLOR
+
+--- Pag 13 ---
+COLORES
+PRINCIPALES
+Complementarios
+# 205527
+# 95BF5B
+# E9E8DB
+# F9F9FA
+# 000000
+# 995616
+# F7D500
+# F49518
+# E62A27
+# E83B6A
+# 6F66AB
+# 264597
+# 1877BD
+# 4EC1E9
+# 12B6C7
+# 026666
+# 026634
+# 40AC47
+# BCD147
+
+--- Pag 14 ---
+PAPELER├ìA
+
+--- Pag 15 ---
+PAPELES 
+Y ACABADOS
+La empresa cuenta con una POL├ìTICA DE 
+SUSTENTABILIDAD por lo que est├í comprometida 
+a desempe├▒ar su actividad de manera ambiental y 
+socialmente responsable. Por tanto es necesario 
+que la comunicaci├│n impresa sea respetuosa 
+tanto con la naturaleza como con la sensibilidad de 
+los ciudadanos.
+Para evidenciar esa actitud, todos los materiales 
+impresos 
+deben 
+ir 
+convenientemente 
+identi´¼ücados con el correspondiente distintivo:
+PAPELES RECOMENDADOS
+Reciclado: Cyclus offset
+FSC: Arctic
+ACABADOS
+En el caso de impresos con grandes masas de tinta 
+se recomienda el acabado en laca offset mate. No 
+utilizar plasti´¼ücados.
+NOTA IMPORTANTE
+El uso del sello FSC est├í sujeto a cadena de 
+custodia. Debe existir una certi´¼ücaci├│n desde el 
+origen (la madera) hasta el ´¼ünal (el impresor). Al 
+utilizar la palabra FSC siempre debe estar 
+acompa├▒ado con la ┬« de marca registrada.
+Para papeles FSC:
+No basta solo con que sean papeles ecol├│gicos, 
+esto solo signi´¼üca que no se ha utilizado cloro en 
+su blanqueo, aunque su procedencia puede que 
+sea de talas incontroladas.
+Un primer paso es utilizar papeles 100% reciclados 
+fabricados 
+a 
+partir 
+de 
+´¼übras 
+celul├│sicas 
+recuperadas (papel usado) y no en base a celulosa 
+virgen.
+Un objetivo ´¼ünal es la utilizaci├│n de papeles FSC 
+(Forest Stewardship Council). Una certi´¼ücaci├│n 
+forestal que garantiza que la madera procede de 
+plantaciones gestionadas de manera sostenible.
+Esta actitud, adem├ís de necesaria y respetuosa es  
+una 
+comu
